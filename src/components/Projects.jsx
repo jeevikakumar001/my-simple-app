@@ -88,5 +88,4 @@ function Projects() {
     </ProjectsSection>
   );
 }
-
 export default Projects;
